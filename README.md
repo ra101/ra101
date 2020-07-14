@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am currently a(n):
 
-- :mortar_board: C.S. junior year undergrad.
+- :mortar_board: C.S. final year undergrad.
 - :nerd_face: Python, C++ and JS Developer.
 - :chart_with_upwards_trend: AI Enthusiast!!!
 - :skull: Backend dev.
