@@ -1,10 +1,10 @@
-### Hi there 👋
-I am currently a(n):
+### Hi there :wave:
+I am a(n):
 
-- :mortar_board: C.S. final year undergrad.
-- :nerd_face: Python, C++ and JS Developer.
-- :chart_with_upwards_trend: AI Enthusiast!!!
+- :sunglasses: Python, C++ and JS Developer
+- :chart_with_downwards_trend: AI Aficionado
 - :skull: Backend dev.
+- :ghost: AR Enthusiast
 - :art: lil' bit of a Front-End Designer.
 - :triumph: Self-Proclaimed Photoshop Master!
 
