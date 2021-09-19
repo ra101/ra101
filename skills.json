@@ -1,0 +1,30 @@
+{
+    "Languages": {
+        "C & C++": "Pirate of G++ C!",
+        "Python": "Jinchūriki of py_tailed_fox!",
+        "JavaScript": null,
+        "PHP": "Programmers Hate PHP",
+        "SQL": null 
+    },
+    "Frameworks": {
+        "Django & DRf": "Unchained!!!",
+        "Flutter": "Dart side wins!",
+        "Unity 3D": null 
+    },
+    "Databases": {
+        "PostgreSQL": null,
+        "PostGIS": null,
+        "TimescaleDB": null,
+        "MongoDB": null
+    },
+    "Tools": {
+        "Git & Github": "Release the Octocat!!!",
+        "Chrome DevTools": null,
+        "Dialogflow": null,
+        "Postman": null
+    },
+    "Others": {
+        "NodeJS": "Deno is Coming!",
+        "Ethereum": "Ledger Notes it All!"
+    }
+}
