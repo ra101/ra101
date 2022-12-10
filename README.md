@@ -2,7 +2,7 @@
 I am a(n):
 
 - :sunglasses: Python, C++ and JS Developer
-- :chart_with_downwards_trend: AI Aficionado
+- :chart_with_upwards_trend: AI Aficionado
 - :skull: Backend dev.
 - :ghost: AR Enthusiast
 - :art: lil' bit of a Front-End Designer.
